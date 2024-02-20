@@ -1,16 +1,16 @@
-# stopwatch
+# Flutter Stopwatch App
 
-A new Flutter project.
+This Flutter Stopwatch app is a clone of the iOS Stopwatch app, created as a part of the "Build a Flutter Stopwatch App with Custom UI and Animations" course on Udemy by Andrea Bizzotto. It utilizes Flutter **tickers**, **matrix transforms**, and custom widgets to achieve a polished user interface and smooth animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Start, stop, and reset functionality similar to the iOS Stopwatch app.
+- Time tracking accuracy for precise stopwatch functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/khakestari/stopwatch/assets/77167918/75068d0f-6f35-49b6-981a-b5b900df89e1" alt="Home" width="200">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgements
+
+- Andrea Bizzotto - Instructor of the "Build a Flutter Stopwatch App with Custom UI and Animations" course on Udemy.
